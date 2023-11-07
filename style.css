@@ -1,0 +1,168 @@
+body {
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: small;
+    background-color: #fcf8d9;
+}
+
+img {
+    width: 25%;
+    margin: 0 1em 0 0;
+  }
+
+.menubalk {
+    display: flex;
+    background-color: white;
+    width: 100%;
+    align-items: center;
+    color: black;
+    margin-bottom: 1.5em;
+}
+
+nav {
+    margin: 0em;
+    display: flex;
+    text-align: left;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 100%;
+    justify-content: center;
+    color: black;
+}
+
+ul li {
+    padding: 1em;
+    list-style: none;
+    float: left;
+}
+
+ul li a:hover {
+    color: rgb(67,94,60);
+    border: botom 0.1em solid rgb(67,94,60)
+}
+
+a:visited:active {
+    color: rgb(28,55,28);
+}
+
+img {
+    width: 25%;
+    margin: 0 1em 0 0;
+    float: inline-end;
+  }
+
+.zeeburgertuinhome {
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+.footer {
+    background-color: rgb(114,155,101);
+    color: white;
+    padding: 4px;
+    text-align: left;
+    display: flex;
+}
+
+ol li {
+    text-decoration: none;
+    display: flex;
+}
+
+a {
+    color:black;
+}
+
+a:visited:active {
+    color: rgb(28,55,28);
+}
+  
+.zeeburgertuin {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.container {
+    display: flex; 
+    flex-direction: row;
+    width: 70%;
+    padding: 20px;
+    color: black;
+  }
+  
+  .container div {
+    width: 50%;
+    padding: 1em;
+  }
+  .container1 {
+    display: flex; 
+    flex-direction: row;
+    margin-left: 40px;
+    width: 70%;
+    padding: 20px;
+    color: black;
+  }
+  
+  .container1 div {
+    width: 50%;
+  }
+
+  .foto_container {
+    width: 60%;
+    height: 60%;
+    padding: 1em;
+    margin: 0 1em 0 0;
+  }
+  
+  .agenda {
+    display: flex; 
+    flex-direction: row;
+    width: 70%;
+    margin: 1.5em;
+    background-color: rgb(114,155,101);
+    padding: 2.5em;
+    color: white;
+  }
+  
+  .agenda div {
+    width: 50%;
+  }
+  
+  .afbeelding {
+    width: 40%;
+    height: 50%;
+    padding-top: 1.5em; 
+    padding-right: 1.5em;
+  }
+
+  .afbeelding2 {
+    width: 40%;
+    height: 50%;
+    padding-top: 1.5em; 
+    padding-left: 2em;
+ }
+
+  .agenda2 {
+    display: flex; 
+    flex-direction: row;
+    width: 70%;
+    margin: 1.5em;
+    background-color: rgb(114,155,101);
+    padding: 2.5em;
+    color: white;
+  }
+  
+  .agenda2 div {
+    width: 50%;
+  }
+
+  .foto_container2 {
+    width: 50%;
+    height: 50%;
+    padding: 1.5em;
+    margin: 0 1em 0 0;
+  }
+  
