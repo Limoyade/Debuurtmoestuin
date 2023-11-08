@@ -154,3 +154,7 @@ a {
   ol {
     text-align: left;
   }
+
+  hr {
+    width: 65%
+    }
