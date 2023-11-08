@@ -36,8 +36,8 @@ ul li a:hover {
     border: botom 0.1em solid rgb(28,55,28);
 }
 
-a:visited:active {
-    color: rgb(28,55,28);
+a:visited {
+    color: black;
 }
 
 img {
