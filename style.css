@@ -59,12 +59,6 @@ a {
   img {
     max-width: 100%;
   }
-  
-.zeeburgertuin {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-}
 
 .container {
     display: flex; 
